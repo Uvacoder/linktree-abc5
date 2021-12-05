@@ -21,11 +21,11 @@ export default function Home() {
           width={200}
           height={200}
           className="mx-auto rounded-full"
-          src="https://res.cloudinary.com/dssvrf9oz/image/upload/v1625825953/Avneesh_Avatar_gukdsk.png"
-          alt="Avneesh Agarwal"
+          src="https://res.cloudinary.com/iarenotamnot/image/upload/v1634341683/kid-blue-hat.webp"
+          alt="uvacoder"
         />
         <h2 className="my-3 text-3xl font-bold text-center text-indigo-900 md:text-4xl">
-          Avneesh Agarwal
+          uvacoder
         </h2>
       </div>
 
@@ -46,7 +46,7 @@ export default function Home() {
       />
       <Links
         image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"
-        link="https://github.com/avneesh0612"
+        link="https://github.com/uvacoder"
         text="Look at my code on Github"
       />
       <Links
@@ -56,7 +56,7 @@ export default function Home() {
       />
       <Links
         image="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png"
-        link="https://www.linkedin.com/in/avneesh-agarwal-78312b20a/"
+        link="https://www.linkedin.com/in/alecbcampbell/"
         text="Connect with me on LinkedIn"
       />
       <Links
